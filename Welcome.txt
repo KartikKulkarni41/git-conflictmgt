@@ -2,5 +2,6 @@ Hi Hello ,
 
 Welcome to github training . i m kartik kulkarni
 
-git b3 commmit new changes  
+checking out b3 branch 
+
 
