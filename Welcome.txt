@@ -3,4 +3,6 @@ Hi Hello ,
 Welcome to github training . i m kartik kulkarni
 
 
-b1 branch updating 
+
+b1 branch updating and b3 commit done by resolving conflict. 
+
